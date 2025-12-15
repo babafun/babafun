@@ -1,4 +1,12 @@
-## Hi there 👋
+# it's babafun
+Hi! I'm babafun, a guy who likes making music, animations, and of course, coding games and tools!
+
+I'm currently working on _bluemesh-rs_, a library in Rust that makes P2P Bluetooth-based games as easy as websockets!
+I'm currently learning Rust and low-level data structures, because I realised that as simple as Python and JS is, it's wayyy too slow for me.
+I'm looking for BlueMesh collaborators once I'm done with the first (v1.0.0) stable release.
+Currently, I'm only collaborating with people I know in-person, but that will change in good time.
+
+enjoy my projects i guess :)
 
 <!--
 **babafun/babafun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
