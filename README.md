@@ -3,7 +3,8 @@ Hi! I'm babafun, a guy who likes making music, animations, and of course, coding
 
 I'm currently working on _bluemesh-rs_, a library in Rust that makes P2P Bluetooth-based games as easy as websockets!
 I'm currently learning Rust and low-level data structures, because I realised that as simple as Python and JS is, it's wayyy too slow for me.
-I'm looking for BlueMesh collaborators once I'm done with the first (v1.0.0) stable release.
+
+I'm looking for BlueMesh collaborators once I'm done with the first (v1.0.0) stable release, and am looking for people to remix the now-public BlueberryProject!
 Currently, I'm only collaborating with people I know in-person, but that will change in good time.
 
 enjoy my projects i guess :)
